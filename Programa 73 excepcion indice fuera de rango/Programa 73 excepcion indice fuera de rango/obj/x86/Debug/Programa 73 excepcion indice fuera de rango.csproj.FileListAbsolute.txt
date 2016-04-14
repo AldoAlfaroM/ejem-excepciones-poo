@@ -1,0 +1,5 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 73 excepcion indice fuera de rango\Programa 73 excepcion indice fuera de rango\bin\Debug\Programa 73 excepcion indice fuera de rango.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 73 excepcion indice fuera de rango\Programa 73 excepcion indice fuera de rango\bin\Debug\Programa 73 excepcion indice fuera de rango.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 73 excepcion indice fuera de rango\Programa 73 excepcion indice fuera de rango\obj\x86\Debug\Programa 73 excepcion indice fuera de rango.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 73 excepcion indice fuera de rango\Programa 73 excepcion indice fuera de rango\obj\x86\Debug\Programa 73 excepcion indice fuera de rango.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 73 excepcion indice fuera de rango\Programa 73 excepcion indice fuera de rango\obj\x86\Debug\Programa 73 excepcion indice fuera de rango.csprojResolveAssemblyReference.cache

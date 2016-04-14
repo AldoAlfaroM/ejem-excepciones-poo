@@ -1,0 +1,4 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 71 excepcion de desbordamiento\Programa 71 excepcion de desbordamiento\bin\Debug\Programa 71 excepcion de desbordamiento.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 71 excepcion de desbordamiento\Programa 71 excepcion de desbordamiento\bin\Debug\Programa 71 excepcion de desbordamiento.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 71 excepcion de desbordamiento\Programa 71 excepcion de desbordamiento\obj\x86\Debug\Programa 71 excepcion de desbordamiento.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 71 excepcion de desbordamiento\Programa 71 excepcion de desbordamiento\obj\x86\Debug\Programa 71 excepcion de desbordamiento.pdb

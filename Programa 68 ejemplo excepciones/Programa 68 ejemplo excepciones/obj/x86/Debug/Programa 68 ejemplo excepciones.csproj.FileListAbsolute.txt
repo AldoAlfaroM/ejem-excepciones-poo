@@ -1,0 +1,9 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad IV\Programa 68 ejemplo excepciones\Programa 68 ejemplo excepciones\bin\Debug\Programa 68 ejemplo excepciones.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad IV\Programa 68 ejemplo excepciones\Programa 68 ejemplo excepciones\bin\Debug\Programa 68 ejemplo excepciones.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad IV\Programa 68 ejemplo excepciones\Programa 68 ejemplo excepciones\obj\x86\Debug\Programa 68 ejemplo excepciones.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad IV\Programa 68 ejemplo excepciones\Programa 68 ejemplo excepciones\obj\x86\Debug\Programa 68 ejemplo excepciones.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 68 ejemplo excepciones\Programa 68 ejemplo excepciones\obj\x86\Debug\Programa 68 ejemplo excepciones.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 68 ejemplo excepciones\Programa 68 ejemplo excepciones\obj\x86\Debug\Programa 68 ejemplo excepciones.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 68 ejemplo excepciones\Programa 68 ejemplo excepciones\bin\Debug\Programa 68 ejemplo excepciones.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 68 ejemplo excepciones\Programa 68 ejemplo excepciones\bin\Debug\Programa 68 ejemplo excepciones.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 68 ejemplo excepciones\Programa 68 ejemplo excepciones\obj\x86\Debug\Programa 68 ejemplo excepciones.csprojResolveAssemblyReference.cache

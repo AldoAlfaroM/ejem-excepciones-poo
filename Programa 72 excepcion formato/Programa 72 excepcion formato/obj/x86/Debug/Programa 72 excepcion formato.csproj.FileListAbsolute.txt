@@ -1,0 +1,5 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 72 excepcion formato\Programa 72 excepcion formato\bin\Debug\Programa 72 excepcion formato.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 72 excepcion formato\Programa 72 excepcion formato\bin\Debug\Programa 72 excepcion formato.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 72 excepcion formato\Programa 72 excepcion formato\obj\x86\Debug\Programa 72 excepcion formato.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 72 excepcion formato\Programa 72 excepcion formato\obj\x86\Debug\Programa 72 excepcion formato.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 72 excepcion formato\Programa 72 excepcion formato\obj\x86\Debug\Programa 72 excepcion formato.csprojResolveAssemblyReference.cache

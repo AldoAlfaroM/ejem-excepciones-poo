@@ -1,0 +1,4 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 70 argument exception\Programa 70 argument exception\bin\Debug\Programa 70 argument exception.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 70 argument exception\Programa 70 argument exception\bin\Debug\Programa 70 argument exception.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 70 argument exception\Programa 70 argument exception\obj\x86\Debug\Programa 70 argument exception.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 70 argument exception\Programa 70 argument exception\obj\x86\Debug\Programa 70 argument exception.pdb

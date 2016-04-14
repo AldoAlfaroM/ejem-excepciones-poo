@@ -1,0 +1,5 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa excepciones\Programa excepciones\bin\Debug\Programa excepciones.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa excepciones\Programa excepciones\bin\Debug\Programa excepciones.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa excepciones\Programa excepciones\obj\x86\Debug\Programa excepciones.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa excepciones\Programa excepciones\obj\x86\Debug\Programa excepciones.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa excepciones\Programa excepciones\obj\x86\Debug\Programa excepciones.csprojResolveAssemblyReference.cache

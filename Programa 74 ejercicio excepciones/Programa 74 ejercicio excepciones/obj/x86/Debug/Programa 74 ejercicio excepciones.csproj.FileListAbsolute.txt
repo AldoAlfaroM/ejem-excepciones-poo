@@ -1,0 +1,5 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 74 ejercicio excepciones\Programa 74 ejercicio excepciones\bin\Debug\Programa 74 ejercicio excepciones.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 74 ejercicio excepciones\Programa 74 ejercicio excepciones\bin\Debug\Programa 74 ejercicio excepciones.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 74 ejercicio excepciones\Programa 74 ejercicio excepciones\obj\x86\Debug\Programa 74 ejercicio excepciones.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 74 ejercicio excepciones\Programa 74 ejercicio excepciones\obj\x86\Debug\Programa 74 ejercicio excepciones.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 74 ejercicio excepciones\Programa 74 ejercicio excepciones\obj\x86\Debug\Programa 74 ejercicio excepciones.csprojResolveAssemblyReference.cache

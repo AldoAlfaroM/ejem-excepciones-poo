@@ -1,0 +1,8 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad IV\Programa 67\Programa 67\bin\Debug\Programa 67.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad IV\Programa 67\Programa 67\bin\Debug\Programa 67.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad IV\Programa 67\Programa 67\obj\x86\Debug\Programa 67.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad IV\Programa 67\Programa 67\obj\x86\Debug\Programa 67.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 67\Programa 67\obj\x86\Debug\Programa 67.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 67\Programa 67\obj\x86\Debug\Programa 67.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 67\Programa 67\bin\Debug\Programa 67.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 67\Programa 67\bin\Debug\Programa 67.pdb

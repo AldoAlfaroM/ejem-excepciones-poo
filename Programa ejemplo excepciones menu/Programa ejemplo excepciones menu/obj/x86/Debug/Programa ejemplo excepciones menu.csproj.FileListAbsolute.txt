@@ -1,0 +1,4 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa ejemplo excepciones menu\Programa ejemplo excepciones menu\bin\Debug\Programa ejemplo excepciones menu.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa ejemplo excepciones menu\Programa ejemplo excepciones menu\bin\Debug\Programa ejemplo excepciones menu.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa ejemplo excepciones menu\Programa ejemplo excepciones menu\obj\x86\Debug\Programa ejemplo excepciones menu.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa ejemplo excepciones menu\Programa ejemplo excepciones menu\obj\x86\Debug\Programa ejemplo excepciones menu.pdb

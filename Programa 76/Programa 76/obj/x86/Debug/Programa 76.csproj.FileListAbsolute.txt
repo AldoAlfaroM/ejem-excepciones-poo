@@ -1,0 +1,5 @@
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 76\Programa 76\bin\Debug\Programa 76.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 76\Programa 76\bin\Debug\Programa 76.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 76\Programa 76\obj\x86\Debug\Programa 76.exe
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 76\Programa 76\obj\x86\Debug\Programa 76.pdb
+C:\Users\dell1234\Desktop\itt\ISC\POO\unidad V\Programa 76\Programa 76\obj\x86\Debug\Programa 76.csprojResolveAssemblyReference.cache
